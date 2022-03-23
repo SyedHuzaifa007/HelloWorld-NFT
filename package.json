@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/SyedHuzaifa007/HelloWorld-NFT/issues"
   },
-  "homepage": "https://github.com/SyedHuzaifa007/HelloWorld-NFT#readme",
-  "devDependencies": {
-    "hardhat": "^2.9.1"
-  }
+  "homepage": "https://github.com/SyedHuzaifa007/HelloWorld-NFT#readme"
 }
