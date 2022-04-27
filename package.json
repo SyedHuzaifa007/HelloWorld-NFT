@@ -19,5 +19,8 @@
   "homepage": "https://github.com/SyedHuzaifa007/HelloWorld-NFT#readme",
   "devDependencies": {
     "hardhat": "^2.9.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
   }
 }
